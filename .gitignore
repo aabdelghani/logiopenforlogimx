@@ -1,0 +1,12 @@
+# Capture artifacts (contain real IPs/hostnames)
+captures/
+decrypted/
+dumps/
+key_logs/
+archive/
+backups/
+third_party_src/
+
+# Python cache
+__pycache__/
+*.pyc
